@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
@@ -49,56 +48,4 @@
             "value": "Standard_DS3"
         }
     }
-=======
-{
-    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
-    "contentVersion": "1.0.0.0",
-    "parameters": {
-        "storageAccountType": {
-            "value": "Premium_LRS"
-        },
-        "adminUsername": {
-            "value": "spdevadmin"
-        },
-        "adminPassword": {
-            "value": "Southcom_POC"
-        },
-        "sqlServerServiceAccountUserName": {
-            "value": "spdevadmin"
-        },
-        "sqlServerServiceAccountPassword": {
-            "value": "Southcom_POC"
-        },
-        "sharePointSetupUserAccountUserName": {
-            "value": "spdevadmin"
-        },
-        "sharePointSetupUserAccountPassword": {
-            "value": "Southcom_POC"
-        },
-        "sharePointFarmAccountPassword": {
-            "value": "Southcom_POC"
-        },
-        "sharePointFarmPassphrasePassword": {
-            "value": "Southcom_POC"
-        },
-        "sppublicIPAddressName": {
-            "value": "PIP-SP16-11"
-        },
-        "spDNSPrefix": {
-            "value": "sp16dev"
-        },
-        "storageAccountNamePrefix": {
-            "value": "stasouthcomdev"
-        },
-         "adVMSize": {
-            "value": "Standard_DS1"
-        },
-        "sqlVMSize": {
-            "value": "Standard_DS3"
-        },
-        "spVMSize": {
-            "value": "Standard_DS3"
-        }
-    }
->>>>>>> origin/master
 }
