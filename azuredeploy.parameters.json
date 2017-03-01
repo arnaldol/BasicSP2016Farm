@@ -30,7 +30,7 @@
             "value": "Southcom_POC"
         },
         "sppublicIPAddressName": {
-            "value": "PIP-SP16-10"
+            "value": "PIP-SP16-11"
         },
         "spDNSPrefix": {
             "value": "sp16dev"
