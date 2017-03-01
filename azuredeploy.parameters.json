@@ -6,37 +6,37 @@
             "value": "Premium_LRS"
         },
         "adminUsername": {
-            "value": "admin123"
+            "value": "spdevadmin"
         },
         "adminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Southcom_POC"
         },
         "sqlServerServiceAccountUserName": {
-            "value": "admin123sql"
+            "value": "spdevadmin"
         },
         "sqlServerServiceAccountPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Southcom_POC"
         },
         "sharePointSetupUserAccountUserName": {
-            "value": "admin123sp"
+            "value": "spdevadmin"
         },
         "sharePointSetupUserAccountPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Southcom_POC"
         },
         "sharePointFarmAccountPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Southcom_POC"
         },
         "sharePointFarmPassphrasePassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Southcom_POC"
         },
         "sppublicIPAddressName": {
-            "value": "sppublicIP"
+            "value": "PIP-SP16-11"
         },
         "spDNSPrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "sp16dev"
         },
         "storageAccountNamePrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "stasouthcomdev"
         },
          "adVMSize": {
             "value": "Standard_DS1"
