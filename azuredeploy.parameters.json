@@ -12,13 +12,13 @@
             "value": "Southcom_POC"
         },
         "sqlServerServiceAccountUserName": {
-            "value": "spdevadmin"
+            "value": "sqlservice"
         },
         "sqlServerServiceAccountPassword": {
             "value": "Southcom_POC"
         },
         "sharePointSetupUserAccountUserName": {
-            "value": "spdevadmin"
+            "value": "sp_setup"
         },
         "sharePointSetupUserAccountPassword": {
             "value": "Southcom_POC"
